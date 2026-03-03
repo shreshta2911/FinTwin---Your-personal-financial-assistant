@@ -76,7 +76,7 @@ It behaves like a digital financial twin — understanding your money habits and
 
 
 🔗 Prototype:
-(https://ai.studio/apps/drive/1iN80HW-PB7wdxuOtVkpDo7M1iIutIAUM) 
+fintwin.vercel.app
 
 
 
